@@ -1,0 +1,15 @@
+footer{
+  height:50px;
+  background-color: darkgrey;
+  text-align:center;
+}
+h2{
+  color:white;
+  padding-top:10px;
+}
+:host{
+   position:absolute;
+    left:0;
+    bottom:0;
+    width:100%;
+}

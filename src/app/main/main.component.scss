@@ -1,0 +1,16 @@
+main{
+  background-color: grey;
+  height:65vh;
+  width:100%;
+}
+
+article{
+  padding:10%;
+  padding-top: 5%;
+}
+
+:host{
+    width: 55%;
+    height:100%;
+    margin-right:10px;
+}

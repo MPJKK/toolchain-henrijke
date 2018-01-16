@@ -1,0 +1,19 @@
+aside{
+  height:65vh;
+  background-color: lightblue;
+  align-content: center;
+}
+article{
+  padding:25px;
+  font-size:150%;
+}
+aside img{
+  width:80%;
+  max-width:50vh;
+  border-radius: 20px;
+  margin:10%;
+}
+:host{
+    width: 45%;
+    height:100%;
+}
